@@ -1,3 +1,5 @@
+//2667. Crear la función Hola mundo
+
 // Escribe una función  createHelloWorld. Debe devolver una nueva función que siempre devuelva  "Hello World".
 
 // Ejemplo 1:
